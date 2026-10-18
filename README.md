@@ -20,3 +20,8 @@ Slots available:
 - USBs (10)
 - MicroSDs (6)
 - Extra storage (36x36mm) (Quantity 2)
+
+
+## Other stuff
+
+Added rubber spots (15mm diameter)
