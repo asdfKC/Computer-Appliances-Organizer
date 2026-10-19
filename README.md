@@ -21,6 +21,10 @@ Slots available:
 - MicroSDs (6)
 - Extra storage (36x36mm) (Quantity 2)
 
+## Fold out stand
+
+OOOHHH THE CYD HAS A FOLD OUT STANDDDDDD IT FOLDSSSSS LANDSCAPE AND PORTRAIT!!
+
 
 ## Other stuff
 
