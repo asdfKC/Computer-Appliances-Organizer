@@ -1,9 +1,9 @@
 # Computer Appliances Organizer
 
 ## Final product pics
-
-<img width="1371" height="950" alt="coverpic" src="https://github.com/user-attachments/assets/8896f6f2-2878-4aac-b1b8-69eb6a065c63" />
-<img width="659" height="817" alt="organizer with caps on" src="https://github.com/user-attachments/assets/5d69dc6b-da21-4317-8f50-662f828d9f3a" />
+<img width="1260" height="995" alt="image" src="https://github.com/user-attachments/assets/c9011cc8-3606-410f-b7c2-b301ee08195d" />
+<img width="1239" height="564" alt="image" src="https://github.com/user-attachments/assets/0fc845d4-869c-4557-89ef-59a9d6dac8b2" />
+<img width="1228" height="995" alt="image" src="https://github.com/user-attachments/assets/bd0642c9-b328-477e-a372-bd6a5ca55ba4" />
 
 
 ## What it's meant to do 
@@ -24,6 +24,8 @@ Slots available:
 ## Fold out stand
 
 OOOHHH THE CYD HAS A FOLD OUT STANDDDDDD IT FOLDSSSSS LANDSCAPE AND PORTRAIT!!
+
+<img width="1239" height="564" alt="image" src="https://github.com/user-attachments/assets/0fc845d4-869c-4557-89ef-59a9d6dac8b2" />
 
 
 ## Other stuff
